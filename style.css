@@ -1,0 +1,13 @@
+.hero {
+  background-image: url("img/hero.jpg");
+  background-size: cover;
+}
+
+.nav-link {
+  color: #FFFFFF !important;
+  font-weight: bold;
+}
+
+.cta {
+  color: #FFFFFF !important;
+}
