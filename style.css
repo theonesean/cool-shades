@@ -11,3 +11,10 @@
 .cta {
   color: #FFFFFF !important;
 }
+
+.ig-logo {
+  left: 15px;
+  bottom: 15px;
+  position: absolute;
+  width: 40px;
+}
