@@ -18,3 +18,29 @@
   position: absolute;
   width: 40px;
 }
+
+
+
+
+.circle {
+  border-radius: 100%;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.black {
+  background: black;
+}
